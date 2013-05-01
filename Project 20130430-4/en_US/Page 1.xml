@@ -5,13 +5,18 @@
     <url></url>
     <sections>
       <section>
+        <id>2</id>
+        <name>Section 2</name>
+        <assets/>
+      </section>
+      <section>
         <id>1</id>
         <name>Section 1</name>
         <assets/>
       </section>
       <section>
-        <id>2</id>
-        <name>Section 2</name>
+        <id>3</id>
+        <name>Section 3</name>
         <assets/>
       </section>
     </sections>
