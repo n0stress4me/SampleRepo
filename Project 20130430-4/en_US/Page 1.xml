@@ -12,6 +12,10 @@
             <id>Headline 1</id>
             <value></value>
           </text>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="04/30/2013" date-last-translated="" edit-link="">
+            <id>Headline 2</id>
+            <value></value>
+          </text>
         </assets>
       </section>
     </sections>
